@@ -40,22 +40,22 @@ body {
 }
 
 .slideshow li:nth-child(1) { 
-  background-image: url(../images/image1.jpg) 
+  background-image: url(https://images.unsplash.com/photo-1455763916899-e8b50eca9967?auto=format&fit=crop&w=1500&q=80) 
 }
 .slideshow li:nth-child(2) { 
-  background-image: url(../images/image2.jpg);
+  background-image: url(https://images.unsplash.com/photo-1414016642750-7fdd78dc33d9?auto=format&fit=crop&w=1498&q=80);
   animation-delay: 7s; 
 }
 .slideshow li:nth-child(3) { 
-  background-image: url(../images/image3.jpg);
+  background-image: url(https://images.unsplash.com/photo-1437382944886-45a9f73d4158?auto=format&fit=crop&w=750&q=80);
   animation-delay: 14s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(../images/image4.jpg);
+  background-image: url(https://images.unsplash.com/photo-1508873696983-2dfd5898f08b?auto=format&fit=crop&w=1500&q=80);
   animation-delay: 21s; 
 }
 .slideshow li:nth-child(5) { 
-  background-image: url(../images/image5.jpg);
+  background-image: url(https://images.unsplash.com/photo-1475483768296-6163e08872a1?auto=format&fit=crop&w=1500&q=80);
   animation-delay: 28s; 
 }
 
